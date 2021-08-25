@@ -4502,6 +4502,16 @@ textarea.form-control-lg {
   color: #fff;
 }
 
+.dice-area {
+    margin: 0px 50px;
+    text-align: center;
+    display: inline-block;
+}
+
+img {
+    max-width: 200px;
+}
+
 .card {
   position: relative;
   display: flex;
